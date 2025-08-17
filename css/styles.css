@@ -94,6 +94,28 @@ nav a:hover {
     margin-bottom: 20px;
 }
 
+
+.menu-category {
+    margin-bottom: 40px;
+}
+
+    .menu-category h3 {
+        color: #4B2E2A;
+        margin-bottom: 15px;
+        font-size: 1.8rem;
+    }
+
+    .menu-category ul {
+        list-style: none;
+        padding: 0;
+    }
+
+    .menu-category li {
+        font-size: 1.1rem;
+        margin: 8px 0;
+        color: #333;
+    }
+
 .about {
     padding: 100px 0;
     text-align: center;
