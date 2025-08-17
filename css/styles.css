@@ -44,21 +44,31 @@ nav a:hover {
 }
 
 .hero {
-    text-align: center;
-    padding: 150px 0;
-    background-image: url('hero-bg.jpg');
+    background: url("../img/Wooden table.png") no-repeat center center;
     background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     color: white;
+    text-align: center;
+    padding: 20px;
 }
 
+
 .hero h1 {
-    font-size: 36px;
+    font-size: 60px;
     margin-bottom: 20px;
+    color: #6F4E37;
+    font-family: 'Pacifico', cursive;
 }
 
 .hero p {
     font-size: 18px;
     margin-bottom: 40px;
+    color: #6F4E37;
+    font-family: 'Merriweather', serif; 
 }
 
 .cta-button {
