@@ -20,11 +20,11 @@ This project is a creative and responsive café webpage built using **HTML** and
 *This is the Homepage.*
 
 ## Screenshot 2
-![Screenshot 2](img/Screenshot%20(157).png)  
+![Screenshot 2](img/menu1.png)  
 *Menu section showcasing a variety of coffee, tea, and pastries.*
 
 ## Screenshot 3
-![Screenshot 3](img/Screenshot%20(159).png)  
+![Screenshot 3](img/about%20us.png)  
 *About Us page displaying CozyCup’s story with images and text.*
 
 ## Screenshot 4
