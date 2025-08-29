@@ -43,7 +43,7 @@ Here are the authors of this project:
 **Name:** **Joshua A. Alilano**  
 **Email:** **202080138@psu.palawan.edu.ph**  
 [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="30">](https://web.facebook.com/joshua.alilano.9)  
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="30">](https://github.com/Josh-know-nothing)
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png" width="30">](https://github.com/Josh-know-nothing)
 
 <p align="center">
   <img src="img/225894212.png" width="150" style="border-radius:50%;" alt="Katleen Mae M. Festin">
@@ -52,7 +52,7 @@ Here are the authors of this project:
 **Name:** **Katleen Mae M. Festin**  
 **Email:** **202380363@psu.palawan.edu.ph**  
 [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" width="30">](https://web.facebook.com/kathleenmae.festin/)  
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Github.png" width="30">](https://github.com/KMMFestin10)
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png" width="30">](https://github.com/KMMFestin10)
 
 
 
